@@ -1,0 +1,9 @@
+CREATE TABLE results (
+    id varchar(255),
+    name varchar(255),
+    unit1 int,
+    unit2 int,
+	unit3 int,
+    unit4 int,
+	unit5 int
+);
